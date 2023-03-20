@@ -1,0 +1,471 @@
+     body {
+      margin: 0px;
+    }
+
+    .ReadMsgBody {
+      width: 100%;
+    }
+
+    .ExternalClass {
+      width: 100%;
+    }
+
+    /* Hotmail symbol fix */
+    .symbolfix img {
+      width: 5px !important;
+      height: 5px !important;
+    }
+
+    th {
+      font-weight: 400;
+      font-size: 20px !important;
+      padding: 5px;
+      text-align: center;
+      color: #000000 !important;
+    }
+
+    th a {
+      color: #000000 !important;
+    }
+
+    .navfreeship {
+      color: #800080 !important;
+    }
+
+    a.navfreeship:link {
+      color: #800080 !important;
+    }
+
+    table #logodesktop {
+      margin: auto;
+      text-align: center;
+    }
+
+    .sharpen {
+      image-rendering: -moz-crisp-edges;
+      image-rendering: -o-crisp-edges;
+      image-rendering: -webkit-optimize-contrast;
+      -ms-interpolation-mode: nearest-neighbor;
+    }
+
+    @media only screen and (max-width: 500px) and (min-width: 320px) {
+      div #nav {
+        font-size: 12px !important;
+      }
+
+      th {
+        font-weight: 400;
+        font-size: 12px !important;
+        padding: 5px;
+        text-align: center;
+        color: #000000 !important;
+        background-color: #ffffff;
+      }
+
+      table #navmenu {
+        background-color: #ffffff;
+        color: #000000 !important;
+        font-size: 12px !important;
+      }
+
+      th a {
+        color: #000000 !important;
+        font-size: 12px !important;
+        display: inline;
+      }
+
+      a.navfreeship:link {
+        color: #800080 !important;
+      }
+
+      .navfreeship {
+        color: #800080 !important;
+      }
+
+      .savingspass {
+        font-size: 13px !important;
+      }
+
+      .promocodetable {
+        width: 75% !important;
+      }
+
+      .tablemobilestacked {
+        display: block !important;
+        width: 95% !important;
+        max-width: 500px !important;
+      }
+
+      .tablemobilestackedd {
+        display: block !important;
+        width: 95% !important;
+        max-width: 500px !important;
+      }
+
+      .bottomnavstacked {
+        padding-bottom: 8px !important;
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+        padding-top: 8px !important;
+      }
+
+      .mobilebox {
+        width: 100% !important;
+        max-width: 95% !important;
+      }
+
+      .mobileboxinner {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+
+      .mobileboxtext {
+        font-size: 11px !important;
+        font-weight: 600 !important;
+        font-family: Arial !important;
+      }
+
+      a.offertext1:link {
+        font-size: 22px !important;
+      }
+
+      a.offertext2:link {
+        font-size: 14px !important;
+      }
+
+      .mobilehide {
+        display: none !important;
+        visibility: hidden !important;
+        width: 0px;
+      }
+
+      .passporttext1 {
+        font-size: 16px !important;
+      }
+
+      .passporttext2 {
+        font-size: 18px !important;
+      }
+
+      .boxborder {
+        border: 1px solid #000000 !important;
+      }
+
+      .width100 {
+        width: 100% !important;
+      }
+
+      .centered {
+        text-align: center !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+      }
+
+      .padding10 {
+        padding: 10px !important;
+      }
+
+      .padding20 {
+        padding: 20px !important;
+      }
+
+      .padding30 {
+        padding: 30px !important;
+      }
+
+      .padding40 {
+        padding: 40px !important;
+      }
+
+      .padding50 {
+        padding: 50px !important;
+      }
+    }
+
+    @media only screen and (max-width: 600px) and (min-width: 500px) {
+      div #nav {
+        font-size: 12px !important;
+      }
+
+      th {
+        font-weight: 400;
+        font-size: 12px !important;
+        padding: 5px;
+        text-align: center;
+        color: #000000 !important;
+        background-color: #ffffff;
+      }
+
+      table #navmenu {
+        background-color: #ffffff;
+        color: #000000 !important;
+        font-size: 12px !important;
+      }
+
+      th a {
+        color: #000000 !important;
+        font-size: 12px !important;
+        display: inline;
+      }
+
+      a.navfreeship:link {
+        color: #800080 !important;
+      }
+
+      .navfreeship {
+        color: #800080 !important;
+      }
+
+      .savingspass {
+        font-size: 13px !important;
+      }
+
+      .promocodetable {
+        width: 75% !important;
+      }
+
+      .tablemobilestacked {
+        display: block !important;
+        width: 95% !important;
+        max-width: 500px !important;
+      }
+
+      .tablemobilestackedd {
+        display: block !important;
+        width: 95% !important;
+        max-width: 500px !important;
+      }
+
+      .bottomnavstacked {
+        width: 50% !important;
+        max-width: 50% !important;
+        padding-bottom: 8px !important;
+        padding-top: 8px !important;
+      }
+
+      .mobilebox {
+        width: 100% !important;
+        max-width: 145px !important;
+      }
+
+      .mobileboxinner {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+
+      .mobileboxtext {
+        font-size: 10px !important;
+        font-weight: 600 !important;
+        font-family: Arial !important;
+      }
+
+      .bottomnavlesspadding {
+        padding: 10px !important;
+      }
+
+      a.offertext1:link {
+        font-size: 22px !important;
+      }
+
+      a.offertext2:link {
+        font-size: 14px !important;
+      }
+
+      .mobilehide {
+        display: none !important;
+        visibility: hidden !important;
+        width: 0px;
+      }
+
+      .passporttext1 {
+        font-size: 16px !important;
+      }
+
+      .passporttext2 {
+        font-size: 17px !important;
+      }
+
+      .boxborder {
+        border: 1px solid #000000 !important;
+      }
+
+      .width100 {
+        width: 100% !important;
+      }
+
+      .centered {
+        text-align: center !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+      }
+
+      .padding10 {
+        padding: 10px !important;
+      }
+
+      .padding20 {
+        padding: 20px !important;
+      }
+
+      .padding30 {
+        padding: 30px !important;
+      }
+
+      .padding40 {
+        padding: 40px !important;
+      }
+
+      .padding50 {
+        padding: 50px !important;
+      }
+
+    }
+
+
+    @media only screen and (max-width: 320px) {
+      div #nav {
+        font-size: 12px !important;
+      }
+
+      th {
+        font-weight: 400;
+        font-size: 12px !important;
+        padding: 5px;
+        text-align: center;
+        color: #000000 !important;
+        background-color: #ffffff;
+      }
+
+      table #navmenu {
+        background-color: #ffffff;
+        color: #000000 !important;
+        font-size: 12px !important;
+      }
+
+      th a {
+        color: #000000 !important;
+        font-size: 12px !important;
+        ;
+        display: inline;
+      }
+
+      a.navfreeship:link {
+        color: #800080 !important;
+      }
+
+      .navfreeship {
+        color: #800080 !important;
+      }
+
+      img.mobilelogo {
+        max-width: 50% !important;
+      }
+
+      .mobilelogo {
+        max-width: 50% !important;
+      }
+
+      .savingspass {
+        font-size: 13px !important;
+      }
+
+      .promocodetable {
+        width: 75% !important;
+      }
+
+      .tablemobilestacked {
+        display: block !important;
+        width: 95% !important;
+        max-width: 500px !important;
+      }
+
+      .tablemobilestackedd {
+        display: block !important;
+        width: 95% !important;
+        max-width: 500px !important;
+      }
+
+      .bottomnavstacked {
+        width: 50% !important;
+        max-width: 50% !important;
+        padding-bottom: 8px !important;
+        padding-top: 8px !important;
+      }
+
+      .mobilebox {
+        width: 100% !important;
+        max-width: 145px !important;
+      }
+
+      .mobileboxinner {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+
+      .mobileboxtext {
+        font-size: 10px !important;
+        font-weight: 600 !important;
+        font-family: Arial !important;
+      }
+
+      .bottomnavlesspadding {
+        padding: 10px !important;
+      }
+
+      a.offertext1:link {
+        font-size: 22px !important;
+      }
+
+      a.offertext2:link {
+        font-size: 14px !important;
+      }
+
+      .mobilehide {
+        display: none !important;
+        visibility: hidden !important;
+        width: 0px;
+      }
+
+      .passporttext1 {
+        font-size: 18px !important;
+      }
+
+      .passporttext2 {
+        font-size: 22px !important;
+      }
+
+      .boxborder {
+        border: 1px solid #000000 !important;
+      }
+
+      .width100 {
+        width: 100% !important;
+      }
+
+      .centered {
+        text-align: center !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+      }
+
+      .padding10 {
+        padding: 10px !important;
+      }
+
+      .padding20 {
+        padding: 20px !important;
+      }
+
+      .padding30 {
+        padding: 30px !important;
+      }
+
+      .padding40 {
+        padding: 40px !important;
+      }
+
+      .padding50 {
+        padding: 50px !important;
+      }
+    }
+  
